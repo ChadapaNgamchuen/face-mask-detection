@@ -21,6 +21,4 @@ streamlit run app.py
 ## Output
 | Without Mask | With Mask |
 |---|---|
-|<img width="407" height="686" alt="without_mask" src="https://github.com/user-attachments/assets/851123ed-8092-447f-abf9-de755c99be0c" />
-|<img width="401" height="665" alt="with_mask" src="https://github.com/user-attachments/assets/376d6f11-6823-489a-82cf-9a59c42a0fb3" />
-|
+| <img width="407" height="686" alt="without_mask" src="https://github.com/user-attachments/assets/851123ed-8092-447f-abf9-de755c99be0c" /> | <img width="401" height="665" alt="with_mask" src="https://github.com/user-attachments/assets/376d6f11-6823-489a-82cf-9a59c42a0fb3" /> |
